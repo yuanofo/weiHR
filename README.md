@@ -1,3 +1,3 @@
 # weiHR
 My first Githup program
-let  do it 
+let's  do it 
